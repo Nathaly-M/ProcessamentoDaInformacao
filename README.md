@@ -1,2 +1,2 @@
 # ProcessamentoDaInformacao
-Série de mini programas em Python com objetivos e comandos variados.
+Série de mini programas em PYTHON com objetivos e comandos variados.
